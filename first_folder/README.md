@@ -1,1 +1,1 @@
-fist folder containing a hello.text file
+today is good day for every one to learn software engnearing
